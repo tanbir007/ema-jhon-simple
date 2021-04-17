@@ -1,0 +1,16 @@
+.hello-shop {
+    display: flex;
+    background-color: rgb(157, 172, 76);
+    font-size: larger;
+    text-align: center;
+    /* margin-left: 50px;
+    margin-right: 200px;
+    border-radius: 10px; */
+    box-shadow: 0px 0px 60px rgb(141, 11, 2);
+}
+.product-container{
+    width: 75%;
+    margin-left: 20px;
+    margin-right: 10px;
+    border-right: 1px solid lightblue;
+}
